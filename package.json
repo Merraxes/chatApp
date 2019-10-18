@@ -1,7 +1,7 @@
 {
     "scripts": {
         "start": "Server.js"
-    }
+    },
     
     "dependencies": {
         "express": "^4.17.1",
